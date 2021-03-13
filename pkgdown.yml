@@ -1,0 +1,11 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  full_vignettes/iheatmapr: iheatmapr.html
+  iheatmapr-minimal: iheatmapr-minimal.html
+last_built: 2021-07-17T06:12Z
+urls:
+  reference: https://docs.ropensci.org/iheatmapr/reference
+  article: https://docs.ropensci.org/iheatmapr/articles
+

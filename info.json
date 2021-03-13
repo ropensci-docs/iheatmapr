@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "b44418714912ff6a90ebb49122fd22750f358d5f",
+    "author": "Alicia Schep <aschep@gmail.com>",
+    "time": "2021-03-13 20:13:21",
+    "files": 2,
+    "merge": true,
+    "message": "Merge pull request #82 from ropensci/to-widget-issue\n\nFix shiny namespace issue"
+  },
+  "remote": "https://github.com/ropensci/iheatmapr",
+  "pkg": "iheatmapr"
+}
