@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "2fc34790d5af20e9fe99e7752c958ef8f470e2ad",
+    "author": "Alicia Schep <aschep@gmail.com>",
+    "time": "2023-07-25 05:07:22",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #100 from alanocallaghan/main\n\nChange maintainership"
+  },
+  "repo": "https://github.com/ropensci/iheatmapr",
+  "pkg": "iheatmapr"
+}
