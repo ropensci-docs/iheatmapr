@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "80855f83e0f871b878a5a932c90bf1554df0b9d3",
+    "author": "Alan O'Callaghan <alan.ocallaghan@outlook.com>",
+    "time": "2026-04-29T09:25:14Z",
+    "files": 81,
+    "merge": false,
+    "message": "Reusing colors (#113)\n\n* Update codemeta and cran comments\n\n* Correct revdep\n\n* Resolve #112\n\nAdd release log\n\nbump\n\n* Add repo status\n\n* Update codemeta"
+  },
+  "repo": "https://github.com/ropensci/iheatmapr",
+  "pkg": "iheatmapr",
+  "time": "2026-08-30T07:31:05Z"
+}
